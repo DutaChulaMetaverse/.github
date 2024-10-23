@@ -1,7 +1,7 @@
-# Welcome to Duta Chula Metaverse!👋
-Hey there! 🎉 Welcome to the official GitHub organization for Duta Chula Metaverse, the coolest virtual campus where education meets innovation in a whole new dimension!
+# Welcome to Mangos Project !👋
+Hey there! 🎉 Welcome to the official GitHub organization for MANGO a Metaverse Academic Nexus for Global Opportunitues!
 
-At Duta Chula Metaverse, we’re all about creating an immersive and engaging virtual environment where students, educators, and tech enthusiasts can collaborate, learn, and explore together. Whether you’re here to build awesome virtual classrooms, develop interactive learning tools, or just dive into some exciting projects, you’ve come to the right place.
+At Mango, we’re all about creating an immersive and engaging virtual environment where students, educators, and tech enthusiasts can collaborate, learn, and explore together. Whether you’re here to build awesome virtual classrooms, develop interactive learning tools, or just dive into some exciting projects, you’ve come to the right place.
 
 ## What We’re All About:
 - Innovative Learning: Transform traditional education with cutting-edge virtual reality and interactive experiences.
@@ -16,11 +16,11 @@ At Duta Chula Metaverse, we’re all about creating an immersive and engaging vi
 ## Let’s Get Started!
 Ready to jump in? Explore our repositories, fork some code, and let’s create something amazing together. Don’t forget to join the conversation in our Discord community and follow us on Twitter for the latest updates and events.
 
-We’re thrilled to have you with us on this journey. Let’s make the Duta Chula Metaverse the best virtual campus ever! 🚀
+We’re thrilled to have you with us on this journey. Let’s make the MANGO the best metaverse ever! 🚀
 
 Happy coding and welcome aboard! 🌟
 
-— The Duta Chula Metaverse Team
+— The MANGO Metaverse Team
 
 
 <!--
